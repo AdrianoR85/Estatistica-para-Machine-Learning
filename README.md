@@ -1,7 +1,9 @@
 # Estatística para Machine Learning
 
-Esse repositorio foi feito para registrar todos os códigos e conhecimentos que vou adquirind no curso de Estatística para Machine Learning. 
+Esse repositorio foi feito para registrar todos os códigos e conhecimentos que vou conforme adquirindo no curso de Estatística para Machine Learning. 
 Alguns conceitos, formulas e notas estarão dentro do próprio arquivo .ipynb. Aqui, no readme, apenas, colocarei a estrurura do curso.
+
+---
 
 ## O que aprenderei.
 - Os principais conceitos e cálculos estatísticos utilizados em Ciência de Dados e Machine Learning
@@ -26,7 +28,23 @@ Alguns conceitos, formulas e notas estarão dentro do próprio arquivo .ipynb. A
 - Criar modelos de regressão linear para previsão de números
 - Criar gráficos e mapas para facilitar a interpretação dos dados
 
+---
+ 
 ## Modulos do Curso:
 1. Introdução.
 2. População e amostragem:
   - [Amostragem](./Amostragem.ipynb)
+3. Dados absolutos e relativos:
+4. Distribuição de Frequência:
+5. Medidas de posição e dipersção:
+6. Distribuição estatística:
+7. Probabilidade
+8. Invervalos de confiança e testes de hipóteses: 
+9. Correlação e regressão
+10. Visualização:
+11. Considerações Finais.
+
+---
+
+## Link do curso:
+[Estatística para Ciência de Dados e Machine Learning](https://www.udemy.com/course/estatistica-para-ciencia-de-dados-machine-learning/)
