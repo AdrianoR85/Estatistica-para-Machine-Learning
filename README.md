@@ -29,4 +29,4 @@ Alguns conceitos, formulas e notas estarão dentro do próprio arquivo .ipynb. A
 ## Modulos do Curso:
 1. Introdução.
 2. População e amostragem:
-  - [Amostragem]("Amostragem.ipynb")
+  - [Amostragem](./Amostragem.ipynb)
