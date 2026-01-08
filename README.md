@@ -1,0 +1,32 @@
+# Estatística para Machine Learning
+
+Esse repositorio foi feito para registrar todos os códigos e conhecimentos que vou adquirind no curso de Estatística para Machine Learning. 
+Alguns conceitos, formulas e notas estarão dentro do próprio arquivo .ipynb. Aqui, no readme, apenas, colocarei a estrurura do curso.
+
+## O que aprenderei.
+- Os principais conceitos e cálculos estatísticos utilizados em Ciência de Dados e Machine Learning
+- Os cálculos de estatística e probabilidade implementados passo a passo na linguagem Python
+- Como a Estatística está relacionada com a Ciência de Dados e Machine Learning
+- Implementar técnicas de amostragem, como por exemplo: amostragem simples, sistemática, estratificada, grupos e reservatório
+- Aprender a teoria e a prática sobre os principais algoritmos de Machine Learning, bem como sua ligação com a Estatística
+- Utilizar técnicas de amostragem para lidar com dados desbalanceados em Machine Learning
+- Calcular percentuais, índices, coeficientes e taxas
+- Aprender passo a passo como calcular distribuições de frequência e gerar histogramas para visualização
+- Calcular medidas de posição, como por exemplo: média, moda, mediana, quartis e percentis
+- Calcular medidas de dispersão de dados, como por exemplo: amplitude, variância, desvio padrão e coeficiente de variação
+- Como utilizar as medidas de posição e dispersão para avaliar algoritmos de Machine Learning
+- Como utilizar medidas de posição para tratar valores faltantes em bases de dados
+- Calcular a variância para escolher os melhores atributos em uma base de dados
+- Entender a principais distribuições estatísticas e de probabilidade, como por exemplo: distribuição normal, gama, exponencial, uniforme, Bernoulli, binomial e de Poisson
+- Como utilizar a estatística inferencial para cálculos de probabilidade
+- Calcular intervalos de confiança
+- Realizar testes de hipóteses, implementando os cálculos passo a passo
+- Realizar testes de hipóteses com ANOVA, Qui Quadrado, Wilcoxon, Friedman e Nemenyi
+- Calcular correlação entre variáveis
+- Criar modelos de regressão linear para previsão de números
+- Criar gráficos e mapas para facilitar a interpretação dos dados
+
+## Modulos do Curso:
+1. Introdução.
+2. População e amostragem:
+  - [Amostragem]("./Amostragem.ipynb")
