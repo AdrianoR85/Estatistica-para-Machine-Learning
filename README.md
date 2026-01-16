@@ -35,6 +35,7 @@ Alguns conceitos, formulas e notas estarão dentro do próprio arquivo .ipynb. A
 2. População e amostragem:
   - [Amostragem](./Amostragem.ipynb)
   - [Classificação](./Classificação.ipynb)
+  - [Exercício01](./Exercício01.ipynb)
 3. Dados absolutos e relativos:
 4. Distribuição de Frequência:
 5. Medidas de posição e dipersção:
