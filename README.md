@@ -33,13 +33,14 @@ Alguns conceitos, formulas e notas estarão dentro do próprio arquivo .ipynb. A
 ## Modulos do Curso:
 1. Introdução.
 2. População e amostragem:
-  - [Amostragem](./Amostragem.ipynb)
-  - [Classificação](./Classificação.ipynb)
-  - [Exercício 01](./Exercício01.ipynb)
+  - [Amostragem](.Notebooks/Amostragem.ipynb)
+  - [Classificação](.Notebooks/Classificação.ipynb)
+  - [Exercício 01](.Exercises/Exercício01.ipynb)
 3. Dados absolutos e relativos:
-  - [Dados Absolutos e Relativos](./Dados_Absolutos_e_Relativos.ipynb)
-  - [Exercício 02](./Exercício02.ipynb)
+  - [Dados Absolutos e Relativos](.Notebooks/Dados_Absolutos_e_Relativos.ipynb)
+  - [Exercício 02](.Exercises/Exercício02.ipynb)
 4. Distribuição de Frequência:
+  - [Distribuição de Frequência](.Notebooks/Distribuição_de_Frequência.ipynb)
 5. Medidas de posição e dipersão:
 6. Distribuição estatística:
 7. Probabilidade
