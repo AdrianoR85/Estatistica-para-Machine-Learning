@@ -41,6 +41,7 @@ Alguns conceitos, formulas e notas estarão dentro do próprio arquivo .ipynb. A
   - [Exercício 02](./Exercises/Exercício02.ipynb)
 4. Distribuição de Frequência:
   - [Distribuição de Frequência](./Notebooks/Distribuição_de_Frequência.ipynb)
+  - [Exercício 03](./Exercises/Exercício03.ipynb)
 5. Medidas de posição e dipersão:
 6. Distribuição estatística:
 7. Probabilidade
