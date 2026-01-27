@@ -44,6 +44,7 @@ Alguns conceitos, formulas e notas estarão dentro do próprio arquivo .ipynb. A
   - [Priori](./Notebooks/Algoritimo_Apriori.ipynb)
   - [Exercício 03](./Exercises/Exercício03.ipynb)
 5. Medidas de posição e dipersão:
+  - [Média, Mediana e Moda](./Notebooks/Média_Mediana_e_Moda.ipynb)
 6. Distribuição estatística:
 7. Probabilidade
 8. Invervalos de confiança e testes de hipóteses: 
